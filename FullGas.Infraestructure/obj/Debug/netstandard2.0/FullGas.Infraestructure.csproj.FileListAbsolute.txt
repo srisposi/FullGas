@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\bin\Debug\netstandard2.0\FullGas.Infraestructure.deps.json
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\bin\Debug\netstandard2.0\FullGas.Infraestructure.dll
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\obj\Debug\netstandard2.0\FullGas.Infraestructure.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\obj\Debug\netstandard2.0\FullGas.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\obj\Debug\netstandard2.0\FullGas.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\bin\Debug\netstandard2.0\FullGas.Infraestructure.pdb
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\obj\Debug\netstandard2.0\FullGas.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\obj\Debug\netstandard2.0\FullGas.Infraestructure.dll
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\obj\Debug\netstandard2.0\FullGas.Infraestructure.pdb
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\bin\Debug\netstandard2.0\FullGas.Core.dll
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\bin\Debug\netstandard2.0\FullGas.Core.pdb
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Infraestructure\obj\Debug\netstandard2.0\FullGas.Infraestructure.csproj.CopyComplete

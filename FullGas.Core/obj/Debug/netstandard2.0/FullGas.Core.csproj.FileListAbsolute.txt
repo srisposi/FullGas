@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Core\bin\Debug\netstandard2.0\FullGas.Core.deps.json
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Core\bin\Debug\netstandard2.0\FullGas.Core.dll
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Core\bin\Debug\netstandard2.0\FullGas.Core.pdb
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Core\obj\Debug\netstandard2.0\FullGas.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Core\obj\Debug\netstandard2.0\FullGas.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Core\obj\Debug\netstandard2.0\FullGas.Core.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Core\obj\Debug\netstandard2.0\FullGas.Core.dll
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Core\obj\Debug\netstandard2.0\FullGas.Core.pdb
+C:\Users\Usuario\source\repos\API_FullGasPrueba\FullGas.Core\obj\Debug\netstandard2.0\FullGas.Core.csprojAssemblyReference.cache
